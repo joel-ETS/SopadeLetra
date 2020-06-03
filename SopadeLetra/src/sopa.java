@@ -7,6 +7,14 @@ import java.util.Scanner;
  */
 
 public class sopa {
+	
+	
+	/**
+	 * 
+	 * @param args
+	 * metodo para elegir una letra en en la sopa de letra
+	 * cuanta palabra quieres buscar
+	 */
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
